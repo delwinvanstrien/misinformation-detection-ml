@@ -34,7 +34,7 @@ After the exploratory data analysis, the dataset was cleaned by recoding data ty
 | Classification and Regression Tree | 4 Terminal Nodes          | 92.7%         |
 | Random Forest                      | 500 Trees & RSF Size 4    | 93.3%         |
 
-Overall, the Random Forest model achieved the highest accuracy for this dataset and predictor variables, with the CART model performing similarly. Logistic Regression had the lowest accuracy and comparatively higher error, though it still provided reasonable predictive performance.
+Overall, the random forest model achieved the highest accuracy for this dataset and predictor variables, with the CART model performing similarly. Logistic regression had the lowest accuracy and comparatively higher error, though it still provided reasonable predictive performance.
 
 <br>
 
