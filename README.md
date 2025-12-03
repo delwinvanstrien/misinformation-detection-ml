@@ -65,4 +65,3 @@ The CART model has a false positive rate of 15.7% and a false negative rate of 0
 | **Prediction: Yes**| 9 (False Positives)  | 79 (True Positives) |
 
 The random forest model has a false positive rate of 12.9% and a false negative rate of 1.25%.
-
