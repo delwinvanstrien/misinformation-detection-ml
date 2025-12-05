@@ -1,4 +1,4 @@
-# 🔍 Misinformation Detection using Machine Learning
+# 🔍 Misinformation Detection Using Machine Learning
 
 This project showcases three classical machine learning models trained in R to predict the occurrence of online misinformation. 
 
